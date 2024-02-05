@@ -1,0 +1,12 @@
+{
+    "aps":{
+        "alert":{
+            "title":"Huli Pizza Co.",
+            "body":"You are going to love this",
+            "subtitle":"Your order is almost ready"
+        },
+        "badge":42,
+        "sound":"default",
+        "category":"snooze.category"
+    }
+}
